@@ -4,7 +4,6 @@ public class Main {
 
     public static void main(String[] args)
     {
-	netAmount(60,15, .85);
     }
 
     public static void netAmount(double hours, double hourlyRate, double netPercent)
